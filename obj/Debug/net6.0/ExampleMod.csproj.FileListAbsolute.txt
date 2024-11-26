@@ -1,0 +1,12 @@
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\bin\Debug\net6.0\ExampleMod.deps.json
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\bin\Debug\net6.0\ExampleMod.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.csproj.AssemblyReference.cache
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.AssemblyInfoInputs.cache
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.AssemblyInfo.cs
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.csproj.CoreCompileInputs.cache
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\refint\ExampleMod.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\ref\ExampleMod.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\bin\Debug\net6.0\PathsPlusPlus.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.csproj.Up2Date

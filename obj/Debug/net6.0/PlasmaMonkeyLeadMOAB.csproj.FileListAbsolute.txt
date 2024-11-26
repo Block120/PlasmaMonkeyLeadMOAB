@@ -1,0 +1,13 @@
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\bin\Debug\net6.0\PlasmaMonkeyLeadMOAB.deps.json
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\bin\Debug\net6.0\PlasmaMonkeyLeadMOAB.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\bin\Debug\net6.0\PathsPlusPlus.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\PlasmaMonkeyLeadMOAB.csproj.AssemblyReference.cache
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\PlasmaMonkeyLeadMOAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\PlasmaMonkeyLeadMOAB.AssemblyInfoInputs.cache
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\PlasmaMonkeyLeadMOAB.AssemblyInfo.cs
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\PlasmaMonkeyLeadMOAB.csproj.CoreCompileInputs.cache
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\PlasmaMo.34B13774.Up2Date
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\PlasmaMonkeyLeadMOAB.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\refint\PlasmaMonkeyLeadMOAB.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\ref\PlasmaMonkeyLeadMOAB.dll
+C:\Users\kirin\OneDrive\Documents\BTD6 Mod Sources\ExampleMod\obj\Debug\net6.0\PlasmaMonkeyLeadMOAB.sourcelink.json
